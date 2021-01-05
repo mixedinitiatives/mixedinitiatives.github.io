@@ -5,7 +5,7 @@ author: Isaac Karth
 ---
 In the opening moments of 2017's _Nier: Automata_, the game smoothly transitions between a vertical shooter, a twin-stick shooter, a third-person melee action game, a side-scrolling platformer, and a few other modes. But more than just including a bunch of minigames, it deploys these modes of gameplay as language. Each use of a gameplay type is a statement, about the game, the world it inhabits, and the relation between the actions the player is performing and the ideas the game is communicating.
 
-![Nier: Automata. The android 2B is sliding down a sand dune.](img/neir_a.jpg)
+![Nier: Automata. The android 2B is sliding down a sand dune.](/img/neir_a.jpg)
 
 Minigames are common in videogames, particularly those in the genre valley that hybridizes a JRPG progression structure with third-person action. In the '90s, one common development approach was to treat each minigame as a bespoke interaction. _Final Fantasy 7_, for example, frequently interrupts the JRPG exploration and active-time-battle combat modes with one-off minigames: one early one involves fleeing attackers with Aerith while pushing crates on their heads. These minigames either repurpose trigger-based exploration gameplay or have their own custom system (as in the tower-defense minigame). The minigames are largely departures from the main gameplay.
 
@@ -25,7 +25,7 @@ Because they use a unified interface, the different gameplay modes in _M.U.L.E._
 
 _Nier: Automata_'s smooth transition between gameplay modes engenders a similar effect. A transition between over-the-shoulder third-person and side-scrolling interaction without cutting or interruption allows the game to make a diegetic statement about the space the player is moving through. A feeling of architecture and space that would take a great deal of work to feel natural in a free-camera environment is succinctly summarized through the use of a different camera perspective. But unlike fixed-camera horror games, the gameplay context also shifts: without changing the player's verbs, switching to a side-view perspective also shifts the gameplay to a side-scrolling platformer.
 
-![Kentucky Route Zero: Act I. Conway is typing into the computer. Computer: "Games is not real".](img/krz.jpg)
+![Kentucky Route Zero: Act I. Conway is typing into the computer. Computer: "Games is not real".](/img/krz.jpg)
 
 Similarly to embrace of theatrical abstraction in _Kentucky Route Zero_ (2013-2020), _Nier: Automata_ makes the videogame-ness central to its language of interaction. The different modes are deployed consistently. Each gameplay mode is associated with a particular scenario or context: the flying top-down shooter mode requires specific equipment, allowing the player to anticipate it and associate it with its context. By acknowledging that it is a videogame, _Nier: Automata_ can use the different minigame interaction modes as part of the language it uses to communicate with the player.
 
