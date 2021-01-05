@@ -5,7 +5,7 @@ author: Isaac Karth
 ---
 In the opening moments of 2017's _Nier: Automata_, the game smoothly transitions between a vertical shooter, a twin-stick shooter, a third-person melee action game, a side-scrolling platformer, and a few other modes. But more than just including a bunch of minigames, it deploys these modes of gameplay as language. Each use of a gameplay type is a statement, about the game, the world it inhabits, and the relation between the actions the player is performing and the ideas the game is communicating.
 
-![Nier: Automata. The android 2B is sliding down a sand dune.](/img/neir_a.jpg)
+![Nier: Automata. The android 2B is sliding down a sand dune.](/img/nier_a.jpg)
 
 Minigames are common in videogames, particularly those in the genre valley that hybridizes a JRPG progression structure with third-person action. In the '90s, one common development approach was to treat each minigame as a bespoke interaction. _Final Fantasy 7_, for example, frequently interrupts the JRPG exploration and active-time-battle combat modes with one-off minigames: one early one involves fleeing attackers with Aerith while pushing crates on their heads. These minigames either repurpose trigger-based exploration gameplay or have their own custom system (as in the tower-defense minigame). The minigames are largely departures from the main gameplay.
 
