@@ -1,0 +1,21 @@
+defaults:
+  -
+    scope:
+      path: "" # everything
+      type: posts
+    values:
+      layout: post
+      permalink: /blog/:slug/
+  -
+    scope:
+      path: "" # everything
+      type: pages
+    values:
+      layout: page
+  -
+    scope:
+      path: "" # everything
+      type: drafts
+    values:
+      layout: post
+      permalink: /blog/:slug/

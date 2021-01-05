@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, user-scalable=no">
+  <title>{{page.title}} | Mixed Initiatives</title>
+  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+  <style>
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  body {
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+    margin: 2rem 0;
+  }
+  a {
+    color: #580000;
+  }
+  #page-header, main, #page-footer {
+    margin: 0 auto;
+    max-width: 76ch;
+    padding: 0 2ch;
+  }
+  #page-header {
+    margin-bottom: 3rem;
+    text-align: center;
+  }
+  h1 {
+    line-height: 1.2;
+  }
+  h1 a {
+    color: inherit;
+    text-decoration: none;
+  }
+  /* universal styles */
+  p {
+    margin-bottom: 1rem;
+  }
+  .post-info {
+    font-style: italic;
+  }
+  .title a {
+    text-decoration: none;
+  }
+  /* frontpage-specific */
+  .post-preview {
+    margin-bottom: 1rem;
+  }
+  /* post-specific */
+  .post-header {
+    margin-bottom: 1rem;
+  }
+  </style>
+</head>
+<body>
+  <header id="page-header">
+    <h1><a href="/">mixed initiatives</a></h1>
+    <nav><a href="/blog/welcome">about</a></nav>
+  </header>
+  <main>{{content}}</main>
+  <footer id="page-footer"></footer>
+</body>
+</html>
