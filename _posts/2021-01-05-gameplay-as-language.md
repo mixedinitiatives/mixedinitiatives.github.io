@@ -1,6 +1,6 @@
 ---
 title: Gameplay as Language
-excerpt: "Nier: Automata knows that it is a videogame"
+excerpt: "<em>Nier: Automata</em> knows that it is a videogame"
 author: Isaac Karth
 ---
 In the opening moments of 2017's _Nier: Automata_, the game smoothly transitions between a vertical shooter, a twin-stick shooter, a third-person melee action game, a side-scrolling platformer, and a few other modes. But more than just including a bunch of minigames, it deploys these modes of gameplay as language. Each use of a gameplay type is a statement, about the game, the world it inhabits, and the relation between the actions the player is performing and the ideas the game is communicating.
