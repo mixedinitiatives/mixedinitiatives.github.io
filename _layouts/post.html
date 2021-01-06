@@ -3,8 +3,9 @@ layout: page
 ---
 <article class="full-post">
   <header class="post-header">
+    {%- assign author = site.data.people[page.author] -%}
     <h2 class="title"><a href="{{page.url}}">{{page.title}}</a></h2>
-    <div class="post-info"><span class="date">{{page.date|date_to_long_string}}</span> • <span class="author">{{page.author}}</span></div>
+    <div class="post-info"><span class="date">{{page.date|date_to_long_string}}</span> • <span class="author">{%- if author -%}<a href="{{author.url}}">{{page.author}}</a>{%- else -%}{{page.author}}{%- endif -%}</span></div>
   </header>
   <div class="content">{{content}}</div>
 </article>

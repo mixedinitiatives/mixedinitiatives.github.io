@@ -4,8 +4,9 @@ title: Recent posts
 {%- for post in site.posts -%}
 <article class="post-preview">
   <header>
+    {%- assign author = site.data.people[post.author] -%}
     <h3 class="title"><a href="{{post.url}}">{{post.title}}</a></h3>
-    <div class="post-info"><span class="date">{{post.date|date_to_long_string}}</span> • <span class="author">{{post.author}}</span></div>
+    <div class="post-info"><span class="date">{{post.date|date_to_long_string}}</span> • <span class="author">{%- if author -%}<a href="{{author.url}}">{{post.author}}</a>{%- else -%}{{post.author}}{%- endif -%}</span></div>
   </header>
   <div class="excerpt">{{post.excerpt}}</div>
 </article>
