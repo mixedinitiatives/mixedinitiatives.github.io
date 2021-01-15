@@ -1,6 +1,6 @@
 ---
 title: Apologia for Game Wikis
-excerpt: "Ludic mystery games — games that lean into the joy of feeling bewildered — invite us to import the social, discursive learning methodolgies of the real world into our play."
+excerpt: "Ludic mystery games — games that lean into the joy of feeling bewildered — invite us to import the social, discursive learning methodolgies of the real world."
 author: Jason Grinblat
 ---
 Some folks in the community Discord for my roguelike _Caves of Qud_ are heading an effort to write an [expansive wiki](https://cavesofqud.gamepedia.com/) for the game. As a game wiki apologist, this brings me an immense amount of joy. I recall my experiences with one of _Qud_'s biggest inspirations, the 90s roguelike _Ancient Domains of Mystery (ADOM)_, and how it was (successfully) pitched to me as a game "so complicated you need a guidebook just to play it". I spent hours scrolling through the pages of said guidebook, in parallel to my playthroughs but also in tangent to them — first searching for answers to my questions (_why was I just crushed to death by my own luggage?_) then later enchantedly browsing through catalogs of the game's myriad secrets (_if I put beeswax in my ears I'll be protected from the banshee's wail, but getting hit by a fireball trap will melt the wax and cause me to hear her again_).
