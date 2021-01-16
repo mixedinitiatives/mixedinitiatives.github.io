@@ -24,7 +24,7 @@ baseurl: "https://mixedinitiatives.net"
         {%- assign author = site.data.people[post.author] -%}
         {%- if author -%}<uri>{{author.url}}</uri>{%- endif -%}
       </author>
-      <summary>{{post.excerpt}}</summary>
+      <summary>{{post.excerpt|strip_html}}</summary>
       <content type="html">{{post.content|xml_escape}}</content>
     </entry>
   {%- endif -%}
