@@ -42,5 +42,5 @@ In the case studies section, we will explore an avatar creation tool from a vide
 
 In the final, theoretical section of this essay, we will introduce terminology for practitioners who intend to develop novel or existing software instruments, and to communicate their results through landmarks, scores, and other methods of orientation in design space using software instruments.
 
-[1] https://distill.pub/2017/research-debt/
+[1] https://distill.pub/2017/research-debt/  
 [2] https://emshort.blog/2015/12/07/procjam-entries-nanogenmo-and-my-generated-generation-guidebook/
