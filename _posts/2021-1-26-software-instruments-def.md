@@ -1,6 +1,6 @@
 ---
 title: Software Instruments - Definition
-excerpt: "We describe software instruments as a family of interactive computational mediums (i.e. game-like artifacts) spanning both toys and tools..."
+excerpt: "I am revisiting the definition of software instruments today."
 author: Jasmine Otto
 ---
 
