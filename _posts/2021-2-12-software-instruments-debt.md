@@ -12,9 +12,8 @@ Next week, we will have our first case study of a software instrument (The Sims 
 
 At first glance, it isn't obvious that we have any skill transfer problems in science or engineering. Maybe the problem with math teaching, what makes people afraid of math, is just a problem with math.
 
-Olah and Carter write:
+Olah and Carter write [1]:
 > Often, some individuals have a much more developed version of an idea than is publicly shared. There are a lot of reasons for not sharing it (in particular, they’re often not traditionally publishable).
-https://distill.pub/2017/research-debt/
 
 Mathematics is extreme in this regard, because mathematicians have a lot of explanations that only make sense to other mathematicians, and only if that person takes a lot of time to find the background that makes the explanation make sense. (Surprisingly, mathematicians just do this. They aren't busy with other things, and they can't be.)
 
@@ -26,26 +25,23 @@ This becomes a problem when people keep re-inventing knowledge about topic X, bu
 
 Any topic can be and will be a topic X, but the more abstraction it contains, the worse this situation gets. I'm going to assert that science and engineering contain a large and increasing amount of abstraction, in the present historical moment.
 
-### Grounding
+#### Grounding
 
 Interactive articles are unreasonably effective at cutting through research debt. They are both demonstration, and instructions for a computer to reproduce that demonstration. They are more portable than other forms of software, because they can run in a browser or in a computational notebook environment.
 
-Conrad Wolfram has talked about using interactive articles to tackle mathematics pedagogy, a kind of research debt that every schoolchild runs into, using rich visual output and parameter sweeps.
-https://www.computerbasedmath.org/resources/reforming-math-curriculum-with-computers.php
+Conrad Wolfram has talked about [2] using interactive articles to tackle mathematics pedagogy, a kind of research debt that every schoolchild runs into, using rich visual output and parameter sweeps.
 
-When Wolfram focuses on the pupil and their notebook of calculations, and how much faster a computer is than a page for this usage, he resides in the parts of the interaction loop. When Bret Victor expands on the idea of representation and direct manipulation of the parameters, he resides in the arcs of the interaction loop.
-http://worrydream.com/LadderOfAbstraction/
 
-Nielsen's notes on Victor continue to discuss the data visualization operations of linked brushing and drilling down. But he is getting at the building blocks of them now, the operational logics* of an interactive article.
+When Wolfram focuses on the pupil and their notebook of calculations, and how much faster a computer is than a page for this usage, he resides in the parts of the interaction loop. When Bret Victor expands on [3] the idea of representation and direct manipulation of the parameters, he resides in the arcs of the interaction loop.
+
+Nielsen's notes on Victor continue [4] to discuss the data visualization operations of linked brushing and drilling down. But he is getting at the building blocks of them now, the operational logics* of an interactive article.
 > * The operation of "tying" two quantities together, to form a single linked entity.
 > * The operation of scrubbing a number.
 > * The operation of "searching" over the graph. 
-http://mnielsen.github.io/notes/kill_math/kill_math.html
 
-* See Joe Osborn's catalog from his dissertation. Note 'linking' the scrubbing slider to the parameter, 'controlling' that slider with the mouse, and 'spatial matching' over the parameteerized space of graphs.
-https://eis.ucsc.edu/analyses-and-approaches/operational-logics/
+* See Joe Osborn's catalog [5] from his dissertation. Note 'linking' the scrubbing slider to the parameter, 'controlling' that slider with the mouse, and 'spatial matching' over the parameteerized space of graphs.
 
-### Reproducibility
+#### Reproducibility
 
 Many computational notebooks are not articles themselves, but distributed alongside papers, providing a reproducible computational component. It is better to share notebooks than to share scripts because a notebook can encapsulate more of its own environment configuration, and is therefore more likely to run on someone else's computer. Some scripts (and other scientific softwares) are distributed in Docker containers for this reason.
 
@@ -55,8 +51,14 @@ This is one of the software ecologies that makes it possible to share software i
 
 Addressing research debt isn't just a question of software distribution, but also one of computational literacy. The full value of a computational notebook cannot be realized without the skill to rewrite its score (its code) without breaking the data pipeline it describes. Whereas a poorly written article is difficult to understand, a poorly written notebook is difficult to build on.
 
-Olivia Guest describes bad instruments in the professional practice of mathematical modelling, such as a programming language that teaches users to poorly encapsulate their abstractions, and whose entire statefulness leaks immediately into the interaction loop (to my immense dismay as a functional programmer).
-https://neuroplausible.com/matlab
+Olivia Guest describes [6] bad instruments in the professional practice of mathematical modelling, such as a programming language that teaches users to poorly encapsulate their abstractions, and whose entire statefulness leaks immediately into the interaction loop (to my immense dismay as a functional programmer).
+
+[1] https://distill.pub/2017/research-debt/  
+[2] https://www.computerbasedmath.org/resources/reforming-math-curriculum-with-computers.php  
+[3] http://worrydream.com/LadderOfAbstraction/  
+[4] http://mnielsen.github.io/notes/kill_math/kill_math.html  
+[5] https://eis.ucsc.edu/analyses-and-approaches/operational-logics/  
+[6] https://neuroplausible.com/matlab  
 
 ## Instrument design
 
@@ -74,7 +76,7 @@ Bret Victor's interactive articles about dynamical systems visualization not onl
 
 (It is beyond the scope of this document to consider games with 'simulation' or 'idle game' mechanics as research instruments themselves. Consider Dwarf Fortress, Crusader Kings III, or Universal Paperclips. In these cases, the artifact is a simulated life-world, and the research debt lies in an ontology of that life-world that may be shared by only one person. See Kreminski on narrative instruments, and Ryan on simulated life-worlds.)
 
-### Community-led discovery
+#### Community-led discovery
 
 Are instruments self-documenting? How does a community of practice remember?
 
@@ -84,7 +86,7 @@ For instance, it is unreasonable to expect to learn how to play a guitar without
 
 In the course of their practice, a guitar player has presumably also discovered many more action sequences that produce noise than produce songs. Where a beginner's action space may include verbs like 'press down this string at that fret' and 'ready my pick above this string', an expert will have encapsulated the action sequences they have executed on hundreds of times, resulting in verbs like 'strum this chord' and 'arpeggiate this scale'.
 
-### Application programming interfaces (APIs)
+#### Application programming interfaces (APIs)
 
 Programming languages are software instruments that programmers can use to create software. In practice, it is script libraries (like NumPy and matplotlib) and game engines (like the HTML5 document object model) that are the instruments used to create software instruments.
 
