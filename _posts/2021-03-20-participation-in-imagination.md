@@ -13,7 +13,10 @@ But for the moment I want to focus on the other half of the equation: what pleas
 Theresa Tanenbaum has long observed that one thing that games offer is _participation_.
 
 > It is common within the interactive narrative research community to
-conflate _interaction_ with _changing the outcome_ of a story. In this paper we argue that reimagining interaction as _participation_ in a story opens up an important new design space for digital narratives. "Being in the Story: Readerly Pleasure, Acting Theory, and Performing a Role", Tess Tenenbaum, 2009.
+> conflate _interaction_ with _changing the outcome_ of a story. In this paper
+> we argue that reimagining interaction as _participation_ in a story opens up
+> an important new design space for digital narratives.
+> "Being in the Story: Readerly Pleasure, Acting Theory, and Performing a Role", Tess Tenenbaum, 2009.
 
 A game's fulfilment of its fantasy is often presented as if you, the player, are transported into the game world and are thereafter living your second person life, a la the Choose-Your-Own-Adventure series. _You_ are both the player character and providing the story's prime mover.[^secondperson] But, as we can see through many other narrative media, people can enjoy themselves perfectly well by merely enacting (or observing others enact!) the experience of the story. (Or, contrariwise, by being the author but _not_ the protagonist.)
 
@@ -24,11 +27,12 @@ There's been a recent [popular Twitter thread](https://twitter.com/DasBrieger/st
 There is a common misconception that agency requires branching or choices. Agency is about being able to enact the promised fantasy. While games often require a fairly complex computational model to do this for many fantasies, complexity and branching are not strict requirements.
 
 > Agency is not simply "free will" or "being able to do
-anything." It is interacting with a system that suggests
-possibilities through the representation of a fictional
-world and the presentation of a set of materials for
-action. ["Agency Reconsidered", Noah Wardrip-Fruin, Michael Mateas,
-Steven Dow, Serdar Sali](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.190.1393&rep=rep1&type=pdf)
+> anything." It is interacting with a system that suggests
+> possibilities through the representation of a fictional
+> world and the presentation of a set of materials for
+> action.
+> ["Agency Reconsidered", Noah Wardrip-Fruin, Michael Mateas,
+> Steven Dow, Serdar Sali](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.190.1393&rep=rep1&type=pdf)
 
 Candyland, then _does_ exhibit agency: the fantasy that it fulfils is a straightforward walk through a more appealing world, and the affordances it offers allow the players to enact the fantasy. Tanenbaum refers to this as _bounded agency_ and stresses that it is dependent on _communicative competence_: the player and the game both need to be able to communicate their intent to each other.
 
