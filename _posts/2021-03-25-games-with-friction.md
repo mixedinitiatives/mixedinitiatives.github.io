@@ -4,7 +4,7 @@ excerpt: Some games work better with more friction.
 author: Isaac Karth
 ---
 
-Some games work better with more friction. I've been playing _Pathfinder Kingmaker_, and as a side effect I've been contemplating whether the kingdom management part of the game would be as engaging if it was in a game by itself.[^aware] On a practical level, could you use a paper prototype to accurately judge how fun the pacing would be when implemented in the full game.  I wonder if the degree to which energy mechanics tended to be just roadbumps to generate revenue at the height of the mobile free to play boom has caused me to overlook the many times making a game slower and with more friction makes it more interesting.
+Some games work better with more friction. As part of my investigation of very-long-form mechanics in roleplaying games, I've been playing _Pathfinder Kingmaker_, and as a side effect I've been contemplating whether the kingdom management part of the game would be as engaging if it was in a game by itself.[^aware] On a practical level, could you use a paper prototype to accurately judge how fun the pacing would be when implemented in the full game.  I wonder if the degree to which energy mechanics tended to be just roadbumps to generate revenue at the height of the mobile free to play boom has caused me to overlook the many times making a game slower and with more friction makes it more interesting.
 
 A game being too slow is a pretty common probably in early development, because there's a lot of ways to create roadblocks. But flow is also hurt by things being too fast or too frictionless. You need time to slow down and actually get attached to a particular element. A fire hose of content is going to wash all the meaning out of the individual drops.
 
