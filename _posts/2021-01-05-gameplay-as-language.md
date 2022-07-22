@@ -33,7 +33,7 @@ Departing from considerations of immersion and realism, it is freed to instead a
 
 Similar to cinematic language, we occasionally speak of a ludic language[^ludiclanguage] or language of play. But this goes beyond a simple verb-action gameplay association and instead treats the modes of gameplay as language units in themselves. The meta-gameplay of switching to a side-scrolling perspective delimits the context for that section of the game: we must now engage with this part of the level through the lens of platformer mechanics, dynamics, and aesthetics.
 
-[^ludiclanguage]: not to be confused with Ludic, a Finnic language in the Uralic family. Or with using language in a playful way--wordplay having been occasionally referred to as "the playful (or 'ludic') function of language"[^citelanguageplay].
+[^ludiclanguage]: Not to be confused with Ludic, a Finnic language in the Uralic family. Or with using language in a playful way--wordplay having been occasionally referred to as "the playful (or 'ludic') function of language"[^citelanguageplay].
 
 [^citelanguageplay]: Crystal, David. _Language Play_. 2001. University of Chicago Press. ISBN 0226122050, 9780226122052.
 
