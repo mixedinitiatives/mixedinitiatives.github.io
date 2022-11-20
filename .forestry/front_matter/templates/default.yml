@@ -1,0 +1,13 @@
+---
+label: Default
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: excerpt
+  label: excerpt
+- type: text
+  name: author
+  label: author
