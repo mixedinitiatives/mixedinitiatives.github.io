@@ -2,7 +2,7 @@
 
 title: The Generative Dimension of Existence
 excerpt: "Every rule system describes a space of existence."
-author: Isaac Karth
+author: procgen
 published: true
 ---
 
