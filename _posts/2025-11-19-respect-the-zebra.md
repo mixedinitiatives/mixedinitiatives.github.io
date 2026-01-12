@@ -1,5 +1,5 @@
 ---
-title: Respect the Zebra: Vibe Scripting
+title: "Respect the Zebra: Vibe Scripting"
 excerpt: "If you can't describe what you really want, it's going to give you what you really asked for."
 author: Isaac Karth
 ---
