@@ -1,6 +1,6 @@
 ---
 title: The Garden of Forking Paths
-excerpt: "The words that it can't say are sometimes as important as the words it can."
+excerpt: "Sometimes, the paths of this labyrinth converge."
 author: procgen
 ---
 
@@ -26,7 +26,7 @@ The short story is obsessed with the idea of branching timelines, a kind of mult
 > 
 > "Not in all," he murmured with a smile. "Time forks perpetually toward innumerable futures. In one of them I am your enemy."
 
-This is making the argument that the branching is the thing of significance, yes? The endless, mutually incompatible futures. Except, wait: all of those times that he describes are, in this story, the same time, or can be read as such, because in this timeline the protagonist _is_ his enemy and his friend; he will be found dead soon; he has been presented as ghost-like oracle: "His face, within the vivid circle of the lamplight, was unquestionably that of an old man, but with something unalterable about it, even immortal."
+This is making the argument that the branching is the thing of significance, yes? The endless, mutually incompatible futures. Except, wait: all of those times that he describes are, in this story, the same time. Or can be read as such, because in this timeline the protagonist _is_ his enemy and his friend; he will be found dead soon; he has been presented as ghost-like oracle: "His face, within the vivid circle of the lamplight, was unquestionably that of an old man, but with something unalterable about it, even immortal."
 
 > "...In the work of Ts'ui Pên, all possible outcomes occur; each one is the point of departure for other forkings. Sometimes, the paths of this labyrinth converge: for example, you arrive at this house, but in one of the possible pasts you are my enemy, in another, my friend."
 
