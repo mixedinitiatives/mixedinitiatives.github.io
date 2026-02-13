@@ -14,6 +14,7 @@ img {
 }
 </style>
 
+
 I'm currently kicking around some ideas about trying to articulate the difference between form, function, and process.[^terms] I'm using these terms in an idiosyncratic way, but the basic thing I'm trying to convey is:
 
 We have constructed much of our society around particular ***forms*** of output; the student's essay is the form. Often the form is the only thing we formally identify (Seeing-like-a-state metrics: the forest we can measure is the only forest we care about; the student essay we can grade is the form and stands in the place of the learning we can't measure).
@@ -31,3 +32,4 @@ This can founder when the reason you believed the form worked turns out to not b
 I feel like I'm repeating some concepts that have other expression elsewhere (alienation? post-commodification as the no-longer-marketable product decomposes?) but this framing has been useful for my thinking, particularly when I have to talk about generative AI and how it is good at reproducing the form of something in exactly the way that elides the function that we actually wanted the process of creating that form to perform.
 
 [^terms]: I'm not convinced that these categories are complete or exhaustive, but they do give me a way to talk about this effect.
+
